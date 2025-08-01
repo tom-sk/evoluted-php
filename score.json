@@ -1,0 +1,29 @@
+[
+    {
+        "card": 1,
+        "score": 8
+    },
+    {
+        "card": 2,
+        "score": 2
+    },
+    {
+        "card": 3,
+        "score": 2
+    },
+    {
+        "card": 4,
+        "score": 1
+    },
+    {
+        "card": 5,
+        "score": 0
+    },
+    {
+        "card": 6,
+        "score": 0
+    },
+    {
+        "total_score": 13
+    }
+]
